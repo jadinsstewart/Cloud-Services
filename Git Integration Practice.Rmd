@@ -1,0 +1,12 @@
+---
+title: "Git Integration Practice"
+output: html_notebook
+---
+
+
+```{r}
+plot(cars)
+```
+
+
+
