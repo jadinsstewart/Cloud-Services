@@ -6,6 +6,9 @@ output: html_notebook
 
 ```{r}
 plot(cars)
+install.packages("usethis", dependencies=TRUE)
+library(usethis)
+#create_github_token()
 ```
 
 
